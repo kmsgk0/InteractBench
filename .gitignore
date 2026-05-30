@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+settings/models.yaml
+dataset/
+data/
+go-judge*
+/mount.yaml
+docs/

@@ -1,0 +1,29 @@
+models:
+  gpt-4o-mini:
+    enabled: false
+    provider: openai_compatible
+    model: gpt-4o-mini
+    endpoint: https://api.openai.com/v1
+    credential:
+      env: OPENAI_API_KEY
+      mode: bearer
+
+  # Gemini v1beta GenerateContent style.
+  # gemini-2.5-pro:
+  #   enabled: false
+  #   provider: gemini_v1beta
+  #   model: gemini-2.5-pro
+  #   endpoint: https://generativelanguage.googleapis.com/v1beta
+  #   credential:
+  #     env: GEMINI_API_KEY
+  #     mode: google_api_key
+
+  # Add more model profiles as needed.
+  # deepseek-r1:
+  #   enabled: false
+  #   provider: openai_compatible
+  #   model: deepseek-reasoner
+  #   endpoint: https://api.deepseek.com
+  #   credential:
+  #     env: DEEPSEEK_API_KEY
+  #     mode: bearer
