@@ -140,9 +140,11 @@ If you find InteractBench useful for your work, please cite:
 
 ```bibtex
 @inproceedings{li2026interactbench,
-  title = {InteractBench: Benchmarking LLMs on Competitive Programming under Unrevealed Information},
-  author = {Li, Jiaze and Shen, Aocheng and Liu, Bing and Zhang, Boyu and Fan, Xiaoxuan and Zhang, Qiankun and Deng, Xianjun},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
-  year = {2026}
+  title     = {InteractBench: Benchmarking {LLM}s on Competitive Programming under Unrevealed Information},
+  author    = {Jiaze Li and Aocheng Shen and Bing Liu and Boyu Zhang and Xiaoxuan Fan and Qiankun Zhang and
+Xianjun Deng},
+  booktitle = {Forty-third International Conference on Machine Learning},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=Y4T4w0Tj0l}
 }
 ```
