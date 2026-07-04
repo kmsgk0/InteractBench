@@ -1,6 +1,6 @@
 # InteractBench
 
-[Project page](https://interactbench.xwysyy.cn) | [Paper (OpenReview)](https://openreview.net/forum?id=Y4T4w0Tj0l) | [Dataset](https://huggingface.co/datasets/kmsgk/InteractBench)
+[Project page](https://www.interactbench.com) | [Paper (OpenReview)](https://openreview.net/forum?id=Y4T4w0Tj0l) | [Dataset](https://huggingface.co/datasets/kmsgk/InteractBench)
 
 A benchmark for evaluating large language models on **interactive** competitive
 programming, where a solution must uncover hidden information through a
